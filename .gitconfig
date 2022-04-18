@@ -10,13 +10,8 @@
     commands = -gitk
 [fetch]
     prune = true
-[sendemail]
-    smtpuser = asottile
-    smtpserver = smtp.mail.umich.edu
-    smtpencryption = tls
-    smtpserverport = 587
 [ui]
-    editor = babi
+    editor = vim
 [user]
-    name = Anthony Sottile
-    email = asottile@umich.edu
+    name = Essam Gouda
+    email = egouda@ualberta.ca
