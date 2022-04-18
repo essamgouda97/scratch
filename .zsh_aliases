@@ -1,0 +1,18 @@
+# more color
+alias grep='grep --color=auto --line-buffered'
+alias ls='ls --color=auto'
+
+# typos
+alias dc=cd
+alias grpe=grep
+alias chmox=chmod
+
+# scripts
+alias create_repo="/home/workspace/scratch/scripts/create_repo.sh"
+
+# aws does not support --help
+alias aws=~/opt/venv/bin/awshelp
+
+# misc
+alias wtf="echo 'wtf indeed.'"
+alias a7a="555555 a7a"
