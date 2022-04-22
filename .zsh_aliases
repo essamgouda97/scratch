@@ -8,7 +8,7 @@ alias grpe=grep
 alias chmox=chmod
 
 # scripts
-alias create_repo="/home/workspace/scratch/scripts/create_repo.sh"
+alias create_repo="/home/gouda/workspace/scratch/scripts/create_repo.sh"
 
 # aws does not support --help
 alias aws=~/opt/venv/bin/awshelp
