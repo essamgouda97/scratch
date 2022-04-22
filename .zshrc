@@ -36,7 +36,9 @@ eval "$(aactivator init)"
 export PYTHONSTARTUP=~/.pythonrc.py
 export EDITOR=babi VISUAL=babi
 
-export DEBEMAIL="asottile@umich.edu" DEBFULLNAME="Anthony Sottile"
+export DEBEMAIL="egouda@ualberta.ca" DEBFULLNAME="Essam Gouda"
 
 export PIP_DISABLE_PIP_VERSION_CHECK=1
 export VIRTUALENV_NO_PERIODIC_UPDATE=1
+
+
